@@ -1,6 +1,6 @@
 var express = require("express");
 var app = express();
-var cookieParser = require('cppkie-parser');
+var cookieParser = require('cookie-parser');
 var crypto = require('crypto');
 var dayjs = require('dayjs');
 
